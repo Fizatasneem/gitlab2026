@@ -1,0 +1,5 @@
+main()
+{
+	pritnf("hello world");
+}
+
